@@ -1,0 +1,24 @@
+{
+  "Papeis": [
+    {
+      "Quantidade": 72,
+      "Cod": "IMAB11.SA",
+      "Preco": 81.25
+    },
+    {
+      "Quantidade": 65,
+      "Cod": "BRAX11.SA",
+      "Preco": 90.43000030517578
+    },
+    {
+      "Quantidade": 20,
+      "Cod": "IVVB11.SA",
+      "Preco": 286.45001220703125
+    },
+    {
+      "Quantidade": 81,
+      "Cod": "IFIE11.SA",
+      "Preco": 72.01000213623047
+    }
+  ]
+}
